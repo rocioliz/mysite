@@ -108,7 +108,7 @@ img {
 
 .top-cloud {
   position: absolute;
-  right: 25%;
+  right: 14%;
   top: 7%;
   width: 15%;
   padding: 3% 3%;
@@ -126,7 +126,7 @@ img {
 
 .bottom-cloud {
   position: absolute;
-  left: 30%;
+  left: 15%;
   width: 14%;
 }
 
