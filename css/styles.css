@@ -1,0 +1,229 @@
+
+body {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2.2;
+  color: #706c61;
+}
+
+h1 {
+  margin: 0;
+  height: 180px;
+  font-family: 'Sacramento', cursive;
+  font-size: 9rem;
+  color: #588da8;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #00909e;
+  font-size: 1.8rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #00bdaa;
+  font-size: 1.5rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+h4 {
+  color: #4d3e3e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+
+a {
+  color: #00bdaa;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+hr {
+  background-color: #ffffff;
+  border-style: dotted;
+  width: 8%;
+  border-top-width: thick;
+  border-color: #eae7d9;
+  margin: 90px auto;
+}
+
+img {
+  margin-bottom: 0;
+}
+
+/***************************CLASS SELECTOR*****************************/
+
+/* Navbar Section */
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navlink {
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+.navbar-color {
+  background-color: #ECFBFC;
+}
+
+/* intro section */
+
+.title {
+  margin: 5px, 0;
+  height: 120px;
+  font-size: 6.5rem;
+}
+
+.intro-colored {
+    background-color: #ECFBFC;
+    margin-bottom: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+  width: 15%;
+}
+
+.city {
+  margin: auto;
+  padding: 0;
+}
+
+.img-fluid {
+  max-width: 85%;
+  height: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  width: 15%;
+}
+
+.intro {
+width: 50%;
+margin:auto;
+}
+
+/* Containers */
+
+.container-fluid {
+  width: 100%;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.white-section {
+    background-color: #ffffff;
+    padding: 40px 0;
+}
+
+.colored-section {
+  background-color: #ECFBFC;
+}
+
+/* Skills section */
+
+.skills-section {
+  padding-bottom: 40px;
+}
+
+.skills {
+  line-height: 1.8;
+}
+
+/* Education section */
+
+#education {
+  position: relative;
+}
+
+.education-row {
+  margin: 10px 0 30px;
+}
+
+
+
+.education.section {
+  margin: 10px 0 30px;
+}
+
+.education-title {
+  font-size: 1.5rem;
+}
+
+/* Experience section  */
+
+.profession {
+  color: #588da8;
+}
+
+.profile-pic {
+  width: 30%;
+  margin: auto;
+}
+
+.experience-section {
+  padding: 60px;
+}
+
+
+/* Logos */
+.skills-logo {
+  width: 17%;
+  margin-bottom: 10px;
+}
+
+.dolunay-logo {
+  width: 16%;
+  margin-bottom: 10px;
+}
+
+.experience-logo {
+  width: 16%;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.experience-list {
+  padding: 7% 30%;
+}
+
+/* Footer section */
+.social-icon {
+  margin: 20px 10px;
+}
+
+.copyright {
+color: #709fb0;
+padding: 40px 30px;
+}
