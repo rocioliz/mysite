@@ -143,6 +143,10 @@ margin:auto;
   text-align: center;
 }
 
+.container {
+ border: 40% 0;
+}
+
 .white-section {
     background-color: #ffffff;
     padding: 40px 0;
@@ -151,6 +155,7 @@ margin:auto;
 .colored-section {
   background-color: #ECFBFC;
 }
+
 
 /* Skills section */
 
